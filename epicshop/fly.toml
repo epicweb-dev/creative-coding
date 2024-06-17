@@ -1,4 +1,4 @@
-app = "epicweb-dev-pixel-perfect-tailwind"
+app = "epicweb-dev-design-iteration"
 primary_region = "sjc"
 kill_signal = "SIGINT"
 kill_timeout = 5

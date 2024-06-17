@@ -1,23 +1,13 @@
-# [Pixel Perfect Tailwind](https://www.epicweb.dev/workshops)
+# [Design Iteration](https://www.epicweb.dev/workshops)
 
-Become a better UI designer with Tailwind — intentionally or accidentally
-
-You’re a developer tasked with converting visual designs to HTML and CSS.
-
-You’re a confident developer already familiar with Tailwind CSS, but you don’t
-necessarily perceive yourself as having a “good eye for design”.
-
-You want to improve the quality and fidelity of your design implementations —
-getting as close as possible to “pixel perfect” conversions.
-
-If you see yourself in this description… this workshop is definitely for you!
+TODO
 
 ---
 
 <div align="center">
   <a
     alt="Epic Web logo with the words Deployed Version"
-    href="https://epicweb-dev-pixel-perfect-tailwind.fly.dev/"
+    href="https://epicweb-dev-design-iteration.fly.dev/"
   >
     <img
       width="300px"
@@ -81,7 +71,7 @@ variable and how to fix it here for [windows][win-path] or
 We'll be implementing a design from a Figma file, and it's critical to have the
 ability to "inspect" the design in Figma.
 
-[Link to the the Figma file](https://www.figma.com/file/P7JAJ2NX6SOw72iTa8eyjl/Pixel-Perfect-Tailwind?type=design&node-id=0%3A1&mode=design&t=WVR4uy4alsTwrVTc-1)
+[Link to the the Figma file](https://www.figma.com/file/P7JAJ2NX6SOw72iTa8eyjl/design-iteration?type=design&node-id=0%3A1&mode=design&t=WVR4uy4alsTwrVTc-1)
 
 Without an account, you can only "see" the design, but not get any measurements
 and info when hovering over layers.
@@ -104,8 +94,8 @@ network connection before running the setup and grab a snack.
 Follow these steps to get this set up:
 
 ```sh nonumber
-git clone --depth 1 https://github.com/epicweb-dev/pixel-perfect-tailwind.git
-cd pixel-perfect-tailwind
+git clone --depth 1 https://github.com/epicweb-dev/design-iteration.git
+cd design-iteration
 npm run setup
 ```
 
@@ -203,13 +193,13 @@ Thank you!
 [npm]: https://www.npmjs.com/
 [node]: https://nodejs.org
 [git]: https://git-scm.com/
-[build-badge]: https://img.shields.io/github/actions/workflow/status/epicweb-dev/pixel-perfect-tailwind/validate.yml?branch=main&logo=github&style=flat-square
-[build]: https://github.com/epicweb-dev/pixel-perfect-tailwind/actions?query=workflow%3Avalidate
+[build-badge]: https://img.shields.io/github/actions/workflow/status/epicweb-dev/design-iteration/validate.yml?branch=main&logo=github&style=flat-square
+[build]: https://github.com/epicweb-dev/design-iteration/actions?query=workflow%3Avalidate
 [license-badge]: https://img.shields.io/badge/license-GPL%203.0%20License-blue.svg?style=flat-square
-[license]: https://github.com/epicweb-dev/pixel-perfect-tailwind/blob/main/LICENSE
+[license]: https://github.com/epicweb-dev/design-iteration/blob/main/LICENSE
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
 [coc]: https://kentcdodds.com/conduct
 [win-path]: https://www.howtogeek.com/118594/how-to-edit-your-system-path-for-easy-command-line-access/
 [mac-path]: http://stackoverflow.com/a/24322978/971592
-[issue]: https://github.com/epicweb-dev/pixel-perfect-tailwind/issues/new
+[issue]: https://github.com/epicweb-dev/design-iteration/issues/new
 <!-- prettier-ignore-end -->
