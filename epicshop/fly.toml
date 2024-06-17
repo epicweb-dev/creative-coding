@@ -1,4 +1,4 @@
-app = "epicweb-dev-design-iteration"
+app = "epicweb-dev-creative-coding"
 primary_region = "sjc"
 kill_signal = "SIGINT"
 kill_timeout = 5

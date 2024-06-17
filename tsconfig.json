@@ -5,40 +5,31 @@
   ],
   "references": [
     {
-      "path": "exercises/01.user-profile-card/01.problem.optimize-text-layout"
+      "path": "exercises/01.creative-coding/01.problem.unstyled-markup"
     },
     {
-      "path": "exercises/01.user-profile-card/01.solution.optimize-text-layout"
+      "path": "exercises/01.creative-coding/01.solution.unstyled-markup"
     },
     {
-      "path": "exercises/01.user-profile-card/02.problem.typography-and-spacing"
+      "path": "exercises/01.creative-coding/02.problem.card-styles"
     },
     {
-      "path": "exercises/01.user-profile-card/02.solution.typography-and-spacing"
+      "path": "exercises/01.creative-coding/02.solution.card-styles"
     },
     {
-      "path": "exercises/01.user-profile-card/03.problem.elevation-and-separation"
+      "path": "exercises/01.creative-coding/03.problem.content-styles"
     },
     {
-      "path": "exercises/01.user-profile-card/03.solution.elevation-and-separation"
+      "path": "exercises/01.creative-coding/03.solution.content-styles"
     },
     {
-      "path": "exercises/01.user-profile-card/04.problem.footer-button"
+      "path": "exercises/01.creative-coding/04.problem.decorative-bubble"
     },
     {
-      "path": "exercises/01.user-profile-card/04.solution.footer-button"
+      "path": "exercises/01.creative-coding/04.solution.decorative-bubble"
     },
     {
-      "path": "exercises/01.user-profile-card/05.problem.drop-header"
-    },
-    {
-      "path": "exercises/01.user-profile-card/05.solution.drop-header"
-    },
-    {
-      "path": "exercises/01.user-profile-card/06.problem.aesthetic-touches"
-    },
-    {
-      "path": "exercises/01.user-profile-card/06.solution.aesthetic-touches"
+      "path": "exercises/01.creative-coding/10.problem.iphone-cards"
     }
   ]
 }
